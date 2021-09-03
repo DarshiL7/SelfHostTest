@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKJHq3KdziBA8rI4aCuLfF+vXC264Z7eCrdQPxmquhQp3oxBwNKx8B3VrQhBqg0HYl3X6rkcaEeqJZVNn3Vl4w==",
+  "dgSpecHash": "vZ9nOlMqqLWvHegNxjFJ64ONdE4UPAU0jkNfXvdeKTKhaRCBjX27AwXbnhxmGjTv8OO7107sRAZK7Kb6xytHZg==",
   "success": true,
-  "projectFilePath": "D:\\Devops\\Asp.Net Core Projects\\NetCoreTestProject\\TestProject\\TestProject.csproj",
+  "projectFilePath": "D:\\Devops\\Asp.Net Core Projects\\NetCoreTestProject\\TestProject\\TestProject\\SelfHostTest\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darshil.kansara\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\darshil.kansara\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
